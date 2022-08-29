@@ -1,0 +1,6 @@
+ressolver: lts-18.28
+packages:
+  - .
+nix:
+  enable: false
+  pure: false
